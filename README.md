@@ -1,1 +1,1 @@
-# quickly2-lang-armv8
+# Quickly2 Lang Arm v8
